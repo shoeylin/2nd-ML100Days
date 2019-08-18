@@ -1,3 +1,6 @@
 .ipynb_checkpoints/*
 *.csv
 data/*
+kaggle_dogcat/*
+*.h5
+*.zip
