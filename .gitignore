@@ -4,3 +4,4 @@ data/*
 kaggle_dogcat/*
 *.h5
 *.zip
+test.py
